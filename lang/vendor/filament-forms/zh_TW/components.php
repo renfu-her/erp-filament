@@ -226,4 +226,15 @@ return [
 
     ],
 
+    'checkbox_list' => [
+        'actions' => [
+            'select_all' => [
+                'label' => '選擇全部',
+            ],
+            'deselect_all' => [
+                'label' => '取消選擇全部',
+            ],
+        ],
+    ],
+
 ];
